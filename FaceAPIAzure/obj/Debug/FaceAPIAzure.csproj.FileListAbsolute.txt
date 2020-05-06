@@ -1,0 +1,16 @@
+C:\Users\Elitebook\source\repos\FaceAPIAzure\FaceAPIAzure\obj\Debug\FaceAPIAzure.csproj.App.config
+C:\Users\Elitebook\source\repos\FaceAPIAzure\FaceAPIAzure\obj\Debug\FaceAPIAzure.csprojAssemblyReference.cache
+C:\Users\Elitebook\source\repos\FaceAPIAzure\FaceAPIAzure\bin\Debug\FaceAPIAzure.exe.config
+C:\Users\Elitebook\source\repos\FaceAPIAzure\FaceAPIAzure\bin\Debug\FaceAPIAzure.exe
+C:\Users\Elitebook\source\repos\FaceAPIAzure\FaceAPIAzure\bin\Debug\FaceAPIAzure.pdb
+C:\Users\Elitebook\source\repos\FaceAPIAzure\FaceAPIAzure\bin\Debug\Microsoft.ProjectOxford.Common.dll
+C:\Users\Elitebook\source\repos\FaceAPIAzure\FaceAPIAzure\bin\Debug\Microsoft.ProjectOxford.Face.dll
+C:\Users\Elitebook\source\repos\FaceAPIAzure\FaceAPIAzure\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Elitebook\source\repos\FaceAPIAzure\FaceAPIAzure\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Elitebook\source\repos\FaceAPIAzure\FaceAPIAzure\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Elitebook\source\repos\FaceAPIAzure\FaceAPIAzure\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Elitebook\source\repos\FaceAPIAzure\FaceAPIAzure\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Elitebook\source\repos\FaceAPIAzure\FaceAPIAzure\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Elitebook\source\repos\FaceAPIAzure\FaceAPIAzure\obj\Debug\FaceAPIAzure.csproj.CopyComplete
+C:\Users\Elitebook\source\repos\FaceAPIAzure\FaceAPIAzure\obj\Debug\FaceAPIAzure.exe
+C:\Users\Elitebook\source\repos\FaceAPIAzure\FaceAPIAzure\obj\Debug\FaceAPIAzure.pdb
